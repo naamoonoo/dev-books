@@ -1,7 +1,7 @@
 ## Chapter 1 - 객체 설계
 
 <p align="center">
-<kbd><img width="500" alt="메인화면 상단" src="../assets/1-essential-class.jpeg"/>
+<kbd><img width="750" alt="메인화면 상단" src="../assets/1-essential-class.jpeg"/>
 </kbd>
 </p>
 
@@ -16,7 +16,7 @@
 어떤 객체가 변경될 떄 그 객체에게 의존하는 객체도 함꼐 변경될 수 있다는 사실이 내포돼 있다. 물론 완전히 의존성을 완전히 없애는 것은 협력하는 객체들간의 공동체를 구축하는 객체지향 설계와는 어울리지 않는다. 따라서 최소한의 의존성만 유지하고, 불필요한 의존성을 제거하는 것을 목표로 해야한다.
 
 <p align="center">
-<kbd><img width="500" alt="메인화면 상단" src="../assets/2-high-dependent.jpeg"/>
+<kbd><img width="750" alt="메인화면 상단" src="../assets/2-high-dependent.jpeg"/>
 </kbd>
 </p>
 
@@ -48,7 +48,7 @@ class Theater {
 ### 자율적인 존재
 
 <p align="center">
-<kbd><img width="500" alt="메인화면 상단" src="../assets/3-loosely-coupled.jpeg"/>
+<kbd><img width="750" alt="메인화면 상단" src="../assets/3-loosely-coupled.jpeg"/>
 </kbd>
 </p>
 
@@ -93,7 +93,7 @@ Data와 Process가 어디에 위치하느냐에 따라 두 가지 프로그래�
 
 또한 `책임`이라는 관점에서 또한 둘을 나눌 수 있는데, 객체지향의 경우에는 하나의 객체에 하나의 책임이 집중되어 었다.
 <p align="center">
-<kbd><img width="500" alt="메인화면 상단" src="../assets/4-responsibility.jpeg"/>
+<kbd><img width="750" alt="메인화면 상단" src="../assets/4-responsibility.jpeg"/>
 </kbd>
 </p>
 
